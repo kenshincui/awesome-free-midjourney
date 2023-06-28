@@ -142,6 +142,17 @@
             <td>2023-06-28</td>
             <td></td>
         </tr>
+        <tr>
+            <td>8</td>
+            <td> <a href="https://ct6.xiami.monster" target="_blank">https://ct6.xiami.monster</a>
+                <br> </td>
+            <td>
+                        🆓
+                        🧰
+            </td>
+            <td>2023-06-28</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 <!-- normal-end -->
