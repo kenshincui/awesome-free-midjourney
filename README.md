@@ -28,7 +28,6 @@
   * [💬 Midjourney 镜像列表](#-midjourney-镜像列表)
   * [📚 更多...](#-更多)
     * [💡 提示词（Prompt）](#-提示词prompt)
-    * [🌟 Star History](#-star-history)
     * [💞 Contributors](#-contributors)
 <!-- TOC -->
 
@@ -161,9 +160,6 @@
 - [可视化编辑提示词](https://github.com/Moonvy/OpenPromptStudio)
 - [Midjourney开源提示词项目](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 - [Prompt hunter 提示词收集助手](https://github.com/op7418/Prompt-hunter)
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kenshincui/awesome-free-midjourney&type=Date)](https://star-history.com/#kenshincui/awesome-free-midjourney&Date)
 
 ### 💞 Contributors
 
